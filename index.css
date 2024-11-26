@@ -1,0 +1,33 @@
+.map {
+    width: 500px;
+    height: 300px;
+    display: block;
+    margin: 0 auto;
+}
+
+* {
+    background-color: rgb(168, 171, 177);
+    color: rgb(146, 43, 43);
+}
+
+a:hover {
+    color: red;
+    background-color:blue;
+}
+
+.two h2 {
+    color: rgb(58, 23, 65);
+}
+
+.five h2 {
+    color: rgb(58, 23, 65);
+}
+
+hr {
+    padding: 2px;
+    background-color: rgb(168, 139, 141);
+}
+
+li {
+    font-size: 19px;
+}
