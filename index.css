@@ -17,6 +17,10 @@ a:hover {
     cursor: pointer;
 }
 
+a{
+    text-decoration: none;
+}
+
 .two h2 {
     color: rgb(58, 23, 65);
 }
