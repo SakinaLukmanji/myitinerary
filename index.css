@@ -1,3 +1,11 @@
+.bubble-text {
+    font-size: 4 rem;
+    font-weight: bold;
+    color: #ffffff;
+    letter-spacing: 2px;
+    }
+
+
 .map {
     width: 500px;
     height: 300px;
