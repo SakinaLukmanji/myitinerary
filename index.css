@@ -11,8 +11,10 @@
 }
 
 a:hover {
-    color: red;
-    background-color:blue;
+    color: darkgray;
+    background-color: gray;
+    text-decoration: none;
+    cursor: pointer;
 }
 
 .two h2 {
