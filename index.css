@@ -5,7 +5,7 @@
     margin: 0 auto;
 }
 
-    .button:hover {
+    .button {
       background-color: rgb(146, 43, 43);
       color: white; 
       padding: 10px 20px;
