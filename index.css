@@ -12,7 +12,6 @@
     letter-spacing: 2px;
     }
 
-
 .map {
     width: 500px;
     height: 300px;
@@ -30,11 +29,9 @@
       font-size: 16px; 
     }
 
-
-
 * {
-    background-color: #73BEBB;
-    color:#729392;
+    background-color: #729392;
+    color: #73BEBB;
     font-family: Serif;
 }
 
